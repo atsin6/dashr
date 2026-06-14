@@ -12,11 +12,11 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.atulpal.project.uber</groupId>
-    <artifactId>uberApp</artifactId>
+    <groupId>io.github.atsin</groupId>
+    <artifactId>Dashr</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>uberApp</name>
-    <description>Uber Project in Spring Boot</description>
+    <name>Dashr</name>
+    <description>Dashr - Ride Management and Operations System</description>
 
     <properties>
         <java.version>17</java.version>
